@@ -62,8 +62,8 @@ module.exports = {
     const categoriesList = global.GoatBot.cacheHelp;
 
     const videoURLs = [
-      "https://i.imgur.com/T7azvEk.mp4",
-      "https://i.imgur.com/H01vGb2.mp4",
+      "https://i.imgur.com/4PdoCGI.mp4",
+      "https://i.imgur.com/dCPrqNd.mp4",
       "https://i.imgur.com/xhFp4Rc.mp4",
       "https://i.imgur.com/EXar1VY.mp4",
       "https://i.imgur.com/vWigmIF.mp4",
