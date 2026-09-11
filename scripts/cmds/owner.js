@@ -25,7 +25,7 @@ module.exports = {
     const religion = "☪︎ 𝑰𝒔𝒍𝒂𝒎 ☪︎";
     const apiServer = "https://shishir-apis.vercel.app";
     const relationship = "『𝑺𝑰𝑵𝑮𝑳𝑬』";
-    const videoLink = "https://files.catbox.moe/vd43nx.mp4";
+    const videoLink = "https://i.imgur.com/elfBlOg.mp4";
     const timeBD = moment().tz("Asia/Dhaka");
     
     const infoMsg = 
