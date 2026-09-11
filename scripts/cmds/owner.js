@@ -3,7 +3,7 @@ const moment = require("moment-timezone");
 module.exports = {
   config: {
     name: "owner",
-    aliases: ["admininfo", "info", "ownerinfo"],
+    aliases: ["admininfo", "owner ", "ownerinfo"],
     version: "3.0",
     author: "xalman",
     countDown: 5,
@@ -25,7 +25,7 @@ module.exports = {
     const religion = "☪︎ 𝑰𝒔𝒍𝒂𝒎 ☪︎";
     const apiServer = "https://shishir-apis.vercel.app";
     const relationship = "『𝑺𝑰𝑵𝑮𝑳𝑬』";
-    const videoLink = "https://i.imgur.com/elfBlOg.mp4";
+    const videoLink = "https://xalman-apis.vercel.app";
     const timeBD = moment().tz("Asia/Dhaka");
     
     const infoMsg = 
