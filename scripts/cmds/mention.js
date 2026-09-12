@@ -15,7 +15,7 @@ module.exports = {
 	onChat: async function ({ api, event }) {
 		const bossUIDs = [
 			"61592841571046",
-			"61592841571046"
+			""
 		];
 
 		if (!event.mentions || typeof event.mentions !== "object")
